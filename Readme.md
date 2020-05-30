@@ -24,7 +24,9 @@ Report :
 
 Code Base : 
 
-            1. Phase 4 Data Collection (Data Scrapping with Beautiful Soup).ipynb
+            1. Phase 3 Data Requirements.ipynb
+            
+            2. Phase 4 Data Collection (Data Scrapping with Beautiful Soup).ipynb
 
 References: 
 
