@@ -16,11 +16,7 @@ Data Set : data_mvp.csv
 
 Report : 
 
-          1. Phase 1 Business Understanding.pdf
-          
-          2. Phase 2 Analytic Approach.pdf
-          
-          3. Phase 3 Data Requirements.pdf
+          1. Phase 1-2-3 Business Understanding-Analytic Approach-Data Requirements.pdf
 
 Code Base : 
 
