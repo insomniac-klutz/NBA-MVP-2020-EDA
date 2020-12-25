@@ -23,6 +23,8 @@ Code Base :
             1. Phase 4 Data Collection (Data Scrapping with Beautiful Soup).ipynb
             
             2. Phase 5-6 Data Understanding and Preparation (Feature Selection and Visualization).ipynb
+            
+            3. Phase 7 Data Modeling
 
 References: 
 
