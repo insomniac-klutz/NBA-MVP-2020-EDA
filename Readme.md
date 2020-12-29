@@ -4,7 +4,7 @@ Analysis of voting patterns and their correlation to potential candidates' perfo
 
 Author: Sankalp Chourasia
 
-Status: Open (Target 24 th June)
+Status: Open
 
 Date of Commencement : 20th May
 
